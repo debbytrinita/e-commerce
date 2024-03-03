@@ -107,7 +107,6 @@ python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2022.2.1
 PyWavelets==1.4.1
-pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==25.1.1
 qtconsole==5.4.4
@@ -136,7 +135,6 @@ terminado==0.17.1
 threadpoolctl==3.2.0
 tifffile==2023.8.30
 tinycss2==1.2.1
-toml==0.10.2
 toolz==0.12.1
 tornado==6.3.3
 traitlets==5.9.0
@@ -157,5 +155,4 @@ whitenoise==6.2.0
 widgetsnbextension==4.0.8
 wrapt==1.14.1
 yarg==0.1.9
-yellowbrick==1.5
 zipp==3.17.0
